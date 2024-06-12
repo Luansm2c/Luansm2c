@@ -1,4 +1,4 @@
-## Hi there 👋
+## Meu nome é Luan, estudo no francisco cristiano 2° ano do ensino médio👋
 
 <!--
 **Luansm2c/Luansm2c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
